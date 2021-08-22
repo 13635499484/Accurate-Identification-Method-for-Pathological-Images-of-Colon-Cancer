@@ -5,7 +5,7 @@ Accurate Identification Method for Pathological Images of Colon Cancer based on 
 . 
 -2.the dataset improved with Retinex was packed and uploaded to Baidu Yunpan.
 
-link：https://pan.baidu.com/s/1r5oQAfju6BuRRVN4UeUGjA 
+link：https://pan.baidu.com/s/1FQ3OjOJD0mGz0FKpYwhWqA 
 extract code：0000
 
 -3.Use the .m files with "Bayes-" can train the nets,and the best net will be saved to BestNets.
